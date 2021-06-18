@@ -13,6 +13,9 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_GAPPS_ARCH := arm64
 
+TARGET_FACE_UNLOCK_SUPPORTED = true
+CUSTOM_BUILD_TYPE=OFFICIAL
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_DEVICE := RMX1851
 PRODUCT_NAME := aosp_RMX1851
@@ -31,3 +34,4 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.ppui.device_name=Realme 3 Pro \
     ro.ppui.version=3.6 \
     ro.ppui.version_code=Unicorn \
+    ro.ppui.is_official=true \
