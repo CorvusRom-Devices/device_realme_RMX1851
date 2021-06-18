@@ -35,3 +35,5 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.ppui.version=3.6 \
     ro.ppui.version_code=Unicorn \
     ro.ppui.is_official=true \
+    ro.ppui.maintainer_name=RealmeDiary
+
