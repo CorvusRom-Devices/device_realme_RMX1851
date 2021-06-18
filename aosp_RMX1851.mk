@@ -25,3 +25,9 @@ PRODUCT_GMS_CLIENTID_BASE := android-realme
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="RMX1851" \
     TARGET_DEVICE="RMX1851"
+
+# PixelPlusUI OFFICIAL
+PRODUCT_PRODUCT_PROPERTIES += \
+    ro.ppui.device_name=Realme 3 Pro \
+    ro.ppui.version=3.6 \
+    ro.ppui.version_code=Unicorn \
