@@ -32,8 +32,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 # PixelPlusUI OFFICIAL
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.ppui.device_name=Realme 3 Pro \
-    ro.ppui.version=3.7 \
-    ro.ppui.version_code=Ragnarok \
+    ro.ppui.version=3.8 \
+    ro.ppui.version_code=Hikaru \
     ro.ppui.is_official=true \
     ro.ppui.maintainer_name=RealmeDiary
 
