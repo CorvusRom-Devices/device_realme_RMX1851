@@ -23,6 +23,10 @@ PRODUCT_BRAND := Realme
 PRODUCT_MODEL := Realme 3 Pro
 PRODUCT_MANUFACTURER := Realme
 
+# use pixel charging for mode offline
+USE_PIXEL_CHARGING := true
+
+
 PRODUCT_GMS_CLIENTID_BASE := android-realme
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
