@@ -41,4 +41,4 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.ppui.is_official=true \
     ro.ppui.maintainer_name=RealmeDiary
 
- BUILD_FINGERPRINT := google/redfin/redfin:11/RQ3A.210805.001/7474174:user/release-keys
+BUILD_FINGERPRINT := google/barbet/barbet:11/RD2A.210905.002/7513089:user/release-keys
